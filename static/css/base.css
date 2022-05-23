@@ -250,7 +250,7 @@ h5 {
 
 /* About Us */
 #about-hero {
-    background-image: url("../img/about-hero.webp");
+    background-image: url("../img/about-us-img.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -265,7 +265,7 @@ h5 {
 }
 
 #index-hero {
-    background-image: url("../img/index-hero.webp");
+    background-image: url("../img/hands-hero.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -279,7 +279,7 @@ h5 {
 }
 
 #how-to-hero {
-    background-image: url("../img/baiju-abraham.jpg");
+    background-image: url("../img/how-to-hero.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -476,7 +476,7 @@ h5 {
 
 /* styling for 404 page */
 #page-not-found {
-    background-image: url("../img/404-img.webp");
+    background-image: url("../img/404-img.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
