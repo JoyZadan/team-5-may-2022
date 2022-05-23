@@ -250,7 +250,7 @@ h5 {
 
 /* About Us */
 #about-hero {
-    background-image: url("/media/about-hero.webp");
+    background-image: url("/static/img/about-hero.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -265,7 +265,7 @@ h5 {
 }
 
 #index-hero {
-    background-image: url("/media/index-hero.webp");
+    background-image: url("/static/img/index-hero.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -279,7 +279,7 @@ h5 {
 }
 
 #how-to-hero {
-    background-image: url("/media/how-to-hero.webp");
+    background-image: url("/static/img/how-to-hero.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -433,17 +433,17 @@ h5 {
 
 /* Support Images */
 
-.media {
+.static/img {
     display: inline-block;
     position: relative;
     vertical-align: top;
 }
 
-.media-image {
+.static/img-image {
     display: block;
 }
 
-.media-body {
+.static/img-body {
     background: rgba(48, 56, 67, 0.9);
     bottom: 0;
     color: white;
@@ -460,11 +460,11 @@ h5 {
     transition: 0.6s;
 }
 
-.media-body:hover {
+.static/img-body:hover {
     opacity: 1;
 }
 
-.media-body h2 {
+.static/img-body h2 {
     margin-top: 0;
     color: #fff;
 }
@@ -476,7 +476,7 @@ h5 {
 
 /* styling for 404 page */
 #page-not-found {
-    background-image: url("/media/404-img.webp");
+    background-image: url("/static/img/404-img.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -501,7 +501,7 @@ h5 {
 }
 
 
-@media (max-width: 990px) {
+@static/img (max-width: 990px) {
     .right-push {
         text-align: right;
     }
