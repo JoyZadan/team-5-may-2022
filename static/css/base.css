@@ -250,11 +250,11 @@ h5 {
 
 /* About Us */
 #about-hero {
-    background-image: url("../img/about-us-img.jpg");
-    background-size: cover;
+    background-image: url("../img/about-us-img.jpg") cover no-repeat fixed center center;
+    /* background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center center;
+    background-position: center center; */
     width: 100vw;
     height: 70vh;
     display: flex;
@@ -265,11 +265,11 @@ h5 {
 }
 
 #index-hero {
-    background-image: url("../img/hands-hero.jpg");
-    background-size: cover;
+    background: url("../img/hands-hero.jpg") cover no-repeat fixed center center;
+    /* background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center center;
+    background-position: center center; */
     width: 100vw;
     height: 70vh;
     display: flex;
@@ -279,11 +279,11 @@ h5 {
 }
 
 #how-to-hero {
-    background-image: url("../img/how-to-hero.jpg");
-    background-size: cover;
+    background: url("../img/how-to-hero.jpg") cover no-repeat fixed center center;
+    /* background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center center;
+    background-position: center center; */
     width: 100vw;
     height: 70vh;
     display: flex;
@@ -476,11 +476,11 @@ h5 {
 
 /* styling for 404 page */
 #page-not-found {
-    background-image: url("../img/404-img.png");
-    background-size: cover;
+    background-image: url("../img/404-img.png")  cover no-repeat fixed center center;
+    /* background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center center;
+    background-position: center center; */
     width: 100vw;
     height: 100vh;
     display: flex;
