@@ -250,11 +250,11 @@ h5 {
 
 /* About Us */
 #about-hero {
-    background: url("../img/about-us-img.jpg");
-    /* background-size: cover;
+    background-image: url("../img/about-us-img.jpg");
+    background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center center; */
+    background-position: center center;
     width: 100vw;
     height: 70vh;
     display: flex;
