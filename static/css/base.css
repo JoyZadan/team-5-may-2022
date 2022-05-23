@@ -265,7 +265,7 @@ h5 {
 }
 
 #index-hero {
-    background-image: url("../img/index-hero.webp");
+    background-image: url("{% static 'img/index-hero.webp' %}");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
