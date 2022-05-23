@@ -194,7 +194,7 @@ h5 {
 .here-to-help {
     width: 90%;
     padding: 5rem;
-    background: url("/static/hands2.png");
+    background: url("../hands2.png");
 }
 
 .here-to-help-text {
@@ -250,7 +250,7 @@ h5 {
 
 /* About Us */
 #about-hero {
-    background-image: url("/static/img/about-hero.webp");
+    background-image: url("../img/about-hero.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -265,7 +265,7 @@ h5 {
 }
 
 #index-hero {
-    background-image: url("/static/img/index-hero.webp");
+    background-image: url("../img/index-hero.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -279,7 +279,7 @@ h5 {
 }
 
 #how-to-hero {
-    background-image: url("/static/img/how-to-hero.webp");
+    background-image: url("../img/how-to-hero.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -476,7 +476,7 @@ h5 {
 
 /* styling for 404 page */
 #page-not-found {
-    background-image: url("/static/img/404-img.webp");
+    background-image: url("../img/404-img.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
