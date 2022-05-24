@@ -250,7 +250,7 @@ h5 {
 
 /* About Us */
 #about-hero {
-    background-image: url("../img/about-us-img.jpg");
+    background-image: url("../img/about.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -265,7 +265,7 @@ h5 {
 }
 
 #index-hero {
-    background-image: url("../img/hands-hero.jpg");
+    background-image: url("../img/hands.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -279,7 +279,7 @@ h5 {
 }
 
 #how-to-hero {
-    background-image: url("../img/how-to-hero.jpg");
+    background-image: url("../img/how-to.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
