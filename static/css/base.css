@@ -250,7 +250,7 @@ h5 {
 
 /* About Us */
 #about-hero {
-    background-image: url("../img/about.png");
+    background-image: url("https://res.cloudinary.com/dypy46uyf/image/upload/v1653376925/static/img/about.1fd3759f8e38.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -265,7 +265,7 @@ h5 {
 }
 
 #index-hero {
-    background-image: url("../img/hands.png");
+    background-image: url("https://res.cloudinary.com/dypy46uyf/image/upload/v1653346779/static/img/index-hero.d8fd0c69fc48.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -279,7 +279,7 @@ h5 {
 }
 
 #how-to-hero {
-    background-image: url("../img/how-to.png");
+    background-image: url("https://res.cloudinary.com/dypy46uyf/image/upload/v1653376925/static/img/how-to.69b2231f9749.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -476,7 +476,7 @@ h5 {
 
 /* styling for 404 page */
 #page-not-found {
-    background-image: url("../img/404-img.png");
+    background-image: url("https://res.cloudinary.com/dypy46uyf/image/upload/v1653337645/static/img/404-img.5aa4f6868a95.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
